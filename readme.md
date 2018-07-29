@@ -19,7 +19,7 @@ Escape the clutter and attention grabbing bling from the website and just get th
 
 <p align="center">
 <br>
-<img src="cli_readme_screenshot.png" width="550">
+<img src="cli_readme_screenshot.png">
 <br>
 </p>
 
