@@ -53,12 +53,11 @@ async function run() {
                 };
             
 
-            // document.querySelector(DYNAMICLINK);
             console.log(i + ": " + innerSelection);
 
-            //TODO: hvad hvis artiklen har et link? Kan vi så få fat på det link? Der ligger en selector her:
-            // body > div.site-wrapper > div > div:nth-child(3) > div.col-lg-8.col-md-8.col-sm-8.col-xs-12 > div > div:nth-child(2) > div > div > div > ol > li:nth-child(3) > div.article-body.article-body--brief > p:nth-child(2) > a
-            // men det er ikke altid, der er et link. Skal det så være if != undefined eller sådan noget?
+            //TODO: Add Ora spinner for the terminal output while the user waits for the data to load and get shown in the CLI
+            // https://github.com/sindresorhus/ora
+
 
             headlinesarray.push(innerSelection);
         }
