@@ -1,4 +1,7 @@
-*Tiny test project to learn Puppeteer and try some light web scraping*
+
+# Get new from DR in your terminal.
+
+* Tiny test project to learn Puppeteer and try some light web scraping*
 
 This is a small script to view the top 20 newest headlines from DR.dk in your command line interface. 
 Escape the clutter and attention grabbing bling from the website and just get the headlines.
