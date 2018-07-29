@@ -1,5 +1,5 @@
 
-# Get new from DR in your terminal.
+# Get news from DR in your terminal.
 
 * Tiny test project to learn Puppeteer and try some light web scraping*
 
