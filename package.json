@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "chalk": "^2.4.1",
+    "ora": "^3.0.0",
     "puppeteer": "^1.6.0"
+  }, 
+  "scripts": {
+    "start": "node index.js"
   }
 }
