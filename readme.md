@@ -17,4 +17,10 @@ Escape the clutter and attention grabbing bling from the website and just get th
 5) ...print them to the console and
 6) ... save them to headlines.txt
 
+<p align="center">
+<br>
+<img src="cli_readme_screenshot.png" width="550">
+<br>
+</p>
+
 I am not in any way associated with DR and just used their page as reference to practice on and because it is still the best source of news in the country.
